@@ -1,0 +1,9 @@
+ARRIVE John Gibbons 34 sleep_deprivation 2
+ARRIVE Luna Gibbons 1 cries_at_night 3
+ARRIVE Grigori Rasputin 47 everything 9
+COUNT
+NEXT
+TREAT
+NEXT
+TREAT
+COUNT
